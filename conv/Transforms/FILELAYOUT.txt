@@ -1,0 +1,4 @@
+Chebyshev-Transforms: Implement Chebyshev transform, or DCT-I algorithm from Baszenski's paper
+DCT-I-Convolution: Implement DCT-I algorithm for circular convolution
+Discrete-Consine-Transform: Initial testing of DCT and its variations
+Orthogonal-and-Monomial-Conversion-for-Convolution: Examine use of orthogonal (unconditionally stable) transformations and error propogation from orthogonal to monomial basis

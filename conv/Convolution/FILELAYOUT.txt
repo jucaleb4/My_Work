@@ -1,0 +1,11 @@
+1-and-2D-Convolution: Connects convolution to Toeplitz matrices
+2D-Convolution-Analysis: Cost analysis and simulatin of 2D convolution
+Explicit-Toom-Cook-Convolution: Implement modulo polynomial variation of Toom Cook and explicit variation
+Generating-WinoConv-Algs: Initial implemenation of polynomial arithmetic multiplication
+Generating-WinoConv-Algs: Create modulo represenation in linear algebra
+Stability: Stability Testing of Toom-Cook Methods and variants
+Stability2: Implement Vincent's node choice paper
+Various-Flavors-For-Convolution: Compare error of different Toom-Cook algs
+Winograd-Chebyshev: Use Chebyshev nodes for convolution and analyze error
+Winograd-Convolution: Implement Lavin and Gray's paper, experiment with different filter sizes
+func.py: helper functions
